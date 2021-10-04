@@ -1,2 +1,2 @@
-# Template for app demonstrations
-Template for all apps we will be building
+# Hundo app
+Print out 100 Numbers on the page.
