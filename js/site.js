@@ -22,7 +22,7 @@ function displayHundo() {
         let numbers = generateNumbers(startValue, endValue);
 
         // display the numbers on the page
-        displayNumbers(numbers)
+        displayNumbers(numbers);
     } else {
         //one or more are not intergers
     }
